@@ -1,6 +1,6 @@
-# Radiant Fertility Hub
+# Dr. Priyanka Singh — Fertility & Women's Health Clinic
 
-exactly ui  attacherd iamge coentnat dad moresc tion ecat ui i need ok and https://radiancespecialityclinics.com/   in thsi u iille get conetmnt realted dr priyany a u have to acrete a ewbite u ahve to conecent tartve on dr pariyanka 2nd i ahve addec dr priyanka orighinal image ok  add more section in tei tatached wesbite get dr wht she deos u ahve tp cometre fertility and womens heath wht seg he deos add more amnay right iamge lefts idfe coenet ok  add mores tion  add morse ctionanccording to fiell ot shoul ectaly fosrt colosr fioenmt verthing addmore which are nmeot ineth fsrt colosr ebvthinag addnaimationa da lso according only bueild hioem pagea nd ectaly ui indeexccilosrand fomts alos
+Modern, compassionate healthcare website for Dr. Priyanka Singh at Radiance Speciality Clinics, Bachupally, Hyderabad.
 
 This project was built with [Lovable](https://lovable.dev).
 
@@ -17,8 +17,8 @@ Continue developing this project in the [Lovable editor](https://lovable.dev/pro
 Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
 ```sh
-git clone <this-repository-url>
-cd <repository-name>
+git clone https://github.com/Vali389/dr-priyanka-fertility-clinic.git
+cd dr-priyanka-fertility-clinic
 npm i
 npm run dev
 ```
