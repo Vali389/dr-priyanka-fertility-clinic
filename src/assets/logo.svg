@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 60" fill="none">
+  <defs>
+    <linearGradient id="wineGradRefined" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4a152d"/>
+      <stop offset="60%" stop-color="#7a1c43"/>
+      <stop offset="100%" stop-color="#a62855"/>
+    </linearGradient>
+    <linearGradient id="roseGradRefined" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b83260"/>
+      <stop offset="100%" stop-color="#ea6b91"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Elegant Clinical Emblem -->
+  <g transform="translate(6, 4)">
+    <!-- Gentle outer circular ring -->
+    <circle cx="26" cy="26" r="25" fill="#fdf2f4" stroke="url(#roseGradRefined)" stroke-width="1.5"/>
+    
+    <!-- Flowing Mother & Child Embracing Petal Silhouette -->
+    <path d="M26 12 C18 12 12 18 12 25 C12 34 26 42 26 42 C26 42 40 34 40 25 C40 18 34 12 26 12 Z" 
+          fill="url(#wineGradRefined)" 
+          opacity="0.92"/>
+          
+    <!-- Inner caring embryo / child swirl -->
+    <path d="M26 17 C29.5 17 33 20 33 24.5 C33 29.5 28.5 33.5 26 36 C23.5 33.5 19 29.5 19 24.5 C19 20 22.5 17 26 17 Z" 
+          fill="#ffffff"/>
+
+    <!-- Gentle heart spark -->
+    <circle cx="26" cy="24" r="3.2" fill="url(#roseGradRefined)"/>
+  </g>
+
+  <!-- Clean Professional Typography (No cluttered text below!) -->
+  <g transform="translate(68, 8)">
+    <text x="0" y="24" font-family="'Playfair Display', Georgia, serif" font-size="24" font-weight="700" fill="#4a152d" letter-spacing="-0.2">
+      Dr. Priyanka Singh
+    </text>
+    <text x="1" y="42" font-family="'Inter', system-ui, sans-serif" font-size="10" font-weight="600" fill="#9d174d" letter-spacing="1.8" text-transform="uppercase">
+      Fertility · Obstetrics · Gynecology
+    </text>
+  </g>
+</svg>
