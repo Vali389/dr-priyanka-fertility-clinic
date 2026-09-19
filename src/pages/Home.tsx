@@ -36,6 +36,7 @@ import clinicInterior from "@/assets/clinic-interior.jpg";
 import consultation from "@/assets/consultation.jpg";
 import contactHeroBg from "@/assets/contact-hero-bg.jpg";
 import servicesHeroBg from "@/assets/services-hero-bg.jpg";
+import aboutHeroBg from "@/assets/about-hero-bg.jpg";
 import { AppointmentBand, IconCard, SectionHeading } from "@/components/PageSections";
 import { Reveal } from "@/components/Reveal";
 import { Button } from "@/components/ui/button";
